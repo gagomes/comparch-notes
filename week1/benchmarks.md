@@ -2,10 +2,12 @@
 
 ## Benchmarks
 
+### Benchmark programs
+
 * Benchmark - Program used to evaluate performance
 * Benchmark Suite - set of Benchmark programs
 
-# 5 types of programs used to evaluate performance
+### 5 types of programs used to evaluate performance
 
 * Real Applications
  * portability is tricky 
