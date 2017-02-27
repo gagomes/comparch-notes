@@ -15,12 +15,21 @@
  * enhanced portability
  * narrowing focus to a specific subset of the performance spectrum
 * Kernels
- * Small, but key pieces from real programs
- * Known examples: livermore loops or linpack
+ * small, but key pieces from real programs
+ * known examples: livermore loops or linpack
 * Toy benchmarks
- * Sort algorithms
- * Sieve of Eratosthenes
+ * sort algorithms
+ * sieve of eratosthenes
 * Synthetic benchmarks
- * Typical instruction mixes, i.e: 40% x, 30% y
+ * typical instruction mixes, i.e: 40% x, 30% y
  * whetstone and drystone
  
+### Benchmark Suites
+
+* Benchmark Suite = Collection of benchmarks
+* Most successful standardization attempt
+ * SPEC (Standard Performance Evaluation Corporation)
+ * focuses mainly on CPU performance
+* Current generation: CPU2006
+ * 12 integer benchmarks
+ * 17 floating point benchmarks
