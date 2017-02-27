@@ -14,3 +14,8 @@
 * Availability
 * Scalability
 * Performance per watt
+
+### Measuring time
+
+* Wallclock AKA elapsed time
+* Multiprogrammed AKA processes are preempted if waiting on IO, time slice is up, etc.
